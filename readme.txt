@@ -1,3 +1,5 @@
-write a txt
-abcdefg
-3333333333333
+This is a test file
+
+
+               create by wangxiaosen 
+               2015-08-27
